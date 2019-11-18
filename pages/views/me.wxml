@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <view>头部</view>
+  <view>身体</view>
+</view>
